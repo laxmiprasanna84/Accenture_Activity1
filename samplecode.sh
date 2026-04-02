@@ -1,1 +1,2 @@
-Welcome to the Activity 1: SCM Using Github
+Welcome to the Activity 1: SCM Using Github, 
+in develop branch.
